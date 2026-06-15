@@ -1,11 +1,11 @@
 <div align="center">
 
-# Ola, sou Nicolas Durante
+# Ol&#225;, sou Nicolas Durante
 
-**Desenvolvedor de Software** focado em Automacao, Integracoes e IA aplicada
+**Desenvolvedor de Software** focado em Automa&#231;&#227;o, Integra&#231;&#245;es e IA aplicada
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicolasod.github.io-blue?style=for-the-badge&logo=github)](https://nicolasod.github.io)
-![Localizacao](https://img.shields.io/badge/Santa_Catarina-Brasil-green?style=for-the-badge)
+![Localiza&#231;&#227;o](https://img.shields.io/badge/Santa_Catarina-Brasil-green?style=for-the-badge)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## Sobre mim
 
-- Especialista em **automacao de processos** e **integracoes entre sistemas**
-- Desenvolvendo solucoes com **IA aplicada** ao mundo real
-- Experiencia com scripts **Groovy** no ecossistema Betha
-- Sempre aprendendo e construindo ferramentas que fazem diferenca
+- Especialista em **automa&#231;&#227;o de processos** e **integra&#231;&#245;es entre sistemas**
+- Desenvolvendo solu&#231;&#245;es com **IA aplicada** ao mundo real
+- Experi&#234;ncia com scripts **Groovy** no ecossistema Betha
+- Sempre aprendendo e construindo ferramentas que fazem diferen&#231;a
 
 ---
 
