@@ -36,18 +36,25 @@
 
 ---
 
+## Contribui&#231;&#245;es
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolasod/Nicolasod/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolasod/Nicolasod/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Nicolasod/Nicolasod/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nicolasod&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasod&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nicolasod&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
