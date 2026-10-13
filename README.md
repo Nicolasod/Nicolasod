@@ -2,9 +2,10 @@
 
 # Ol&#225;, sou Nicolas Durante
 
-**Desenvolvedor de Software** focado em Automa&#231;&#227;o, Integra&#231;&#245;es e IA aplicada
+**Engenheiro de IA** focado em Agentes, Automa&#231;&#227;o e Integra&#231;&#245;es
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicolasod.github.io-blue?style=for-the-badge&logo=github)](https://nicolasod.github.io)
+[![Sistema multiagente](https://img.shields.io/badge/Sistema_multiagente-ver_arquitetura-bc8cff?style=for-the-badge)](https://nicolasod.github.io/multiagente.html)
 ![Localiza&#231;&#227;o](https://img.shields.io/badge/Santa_Catarina-Brasil-green?style=for-the-badge)
 
 </div>
@@ -13,8 +14,9 @@
 
 ## Sobre mim
 
-- Especialista em **automa&#231;&#227;o de processos** e **integra&#231;&#245;es entre sistemas**
-- Desenvolvendo solu&#231;&#245;es com **IA aplicada** ao mundo real
+- Construo **agentes de IA** e sistemas de **orquestra&#231;&#227;o**: um orquestrador que distribui o trabalho entre agentes especialistas
+- Projeto em destaque: **sistema multiagente** com aprova&#231;&#227;o humana antes de qualquer a&#231;&#227;o e regras de seguran&#231;a aprendidas com erros reais ([ver arquitetura](https://nicolasod.github.io/multiagente.html))
+- **IA aplicada** a rotinas reais: automa&#231;&#227;o de processos e integra&#231;&#227;o entre sistemas
 - Experi&#234;ncia com scripts **Groovy** em sistemas ERP
 - Sempre aprendendo e construindo ferramentas que fazem diferen&#231;a
 
@@ -31,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LLMs e Agentes](https://img.shields.io/badge/LLMs_%26_Agentes-bc8cff?style=for-the-badge)
 
 </div>
 
